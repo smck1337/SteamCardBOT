@@ -1,4 +1,4 @@
-shared_secret & identity_secret beállítása:
+shared_secret & identity_secret settings:
 1: Go to the SDA(Steam Desktop Authenticator) directory. If you have encryption disabled go to step 3.
 2: Open SDA and hit "Manage Encryption". Fill in your encryption key and when asked to create a new one leave the text box blank. This will disable encryption.
 3: Head over to the maFiles folder and open the file named after your accounts SteamID64.
@@ -16,10 +16,7 @@ How to set up a server with DigitalOcean
 8: Run the command: npm i
 9: To start your bot run this command in Putty: forever start index.js
 
-Ha mindent jól csináltál a botod fut!
 
-A konfigot mindig ellenőrizd le!
-Hibajelentés, kérdések, támogatás, egyéb:
 Steam:
 Twitter:
 GitHub: 
